@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailfncrypt",
+        "uuid": 14330880,
+        "checksum": "qspb18"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
